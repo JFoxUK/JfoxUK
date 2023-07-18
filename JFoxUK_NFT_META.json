@@ -1,0 +1,59 @@
+{
+  "nft": {
+    "identifier": "8669021206376665901168958185499226380039061457697079226762203559642672398337",
+    "collection": "jfoxuk-collection",
+    "contract": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+    "token_standard": "erc1155",
+    "name": "JFoxUK",
+    "description": "The official and original profile picture of JFoxUK (Jonathan Fox) - found at twitter.com/jfoxuk - trailblazer.me/jfoxuk - linkedin.com/jfoxuk",
+    "image_url": "https://i.seadn.io/gcs/files/d08bfa6f7aa1982eaa49a0d2b7c15d46.png?w=500&auto=format",
+    "metadata_url": null,
+    "created_at": "2023-07-18T19:57:17.625128",
+    "updated_at": "2023-07-18T20:45:15.035877",
+    "is_disabled": false,
+    "is_nsfw": false,
+    "is_suspicious": false,
+    "creator": "0x132a7dfbca93f5be784508d4ee1559abf87958b8",
+    "traits": [
+      {
+        "trait_type": "Name",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 0,
+        "order": null,
+        "value": "JFoxUK"
+      },
+      {
+        "trait_type": "Type",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 0,
+        "order": null,
+        "value": "Profile Picture"
+      },
+      {
+        "trait_type": "Jacket",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 0,
+        "order": null,
+        "value": "Golden Salesforce Traiblazer Hoodie"
+      },
+      {
+        "trait_type": "Background",
+        "display_type": null,
+        "max_value": null,
+        "trait_count": 0,
+        "order": null,
+        "value": "Dark"
+      }
+    ],
+    "owners": [
+      {
+        "address": "0xc83005a673231ee3ff633271959125b53f10d521",
+        "quantity": 1
+      }
+    ],
+    "rarity": null
+  }
+}
